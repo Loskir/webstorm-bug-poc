@@ -1,0 +1,12 @@
+{
+  "name": "subpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ansicolor": "^1.1.95"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
